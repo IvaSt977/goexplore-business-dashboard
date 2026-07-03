@@ -120,3 +120,22 @@ During this project we gained practical experience in:
 ## Author
 
 Created as part of the **WBS Coding School – Data Science & AI Program**.
+---
+
+# Dashboard Screenshots
+
+## CEO Dashboard
+
+![CEO Dashboard](Dashboard%201.png)
+
+---
+
+## Retailer Connections Dashboard
+
+![Retailer Connections Dashboard](Dashboard%202.png)
+
+---
+
+## European Division Dashboard
+
+![European Division Dashboard](Dashboard%203.png)
