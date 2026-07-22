@@ -1,5 +1,9 @@
 # GoExplore Business Dashboard
 
+This repository presents a Business Intelligence project developed during the WBS Coding School – Data Science & AI Program.
+
+The project combines SQL, Google BigQuery and Looker Studio to analyse business performance and develop interactive dashboards for different business stakeholders.
+
 ## Project Overview
 
 This project was developed as a two-person team project during the **WBS Coding School – Data Science & AI** program.
@@ -43,6 +47,20 @@ The project included:
 - Presentation of business insights
 
 ---
+
+## My Contribution
+
+As part of a two-person team, I contributed to:
+
+- Writing SQL queries in Google BigQuery for data analysis
+- Preparing and analysing business data
+- Developing interactive dashboards in Looker Studio
+- Translating business requirements into analytical solutions
+- Identifying business insights and KPI trends
+- Preparing and presenting the final project presentation
+- Collaborating with a team member using GitHub
+
+ --- 
 
 ## Business Questions
 
@@ -119,7 +137,7 @@ During this project we gained practical experience in:
 
 ## Author
 
-Created as part of the **WBS Coding School – Data Science & AI Program**.
+Developed collaboratively as part of a two-person team during the WBS Coding School – Data Science & AI Program.**.
 ---
 
 # Dashboard Screenshots
