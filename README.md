@@ -137,7 +137,7 @@ During this project we gained practical experience in:
 
 ## Author
 
-Developed collaboratively as part of a two-person team during the WBS Coding School – Data Science & AI Program.**.
+Developed collaboratively as part of a two-person team during the WBS Coding School – Data Science & AI Program.
 ---
 
 # Dashboard Screenshots
